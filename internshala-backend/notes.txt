@@ -1,0 +1,5 @@
+InterShala Api 
+
+A REST API (also known as RESTful API) is an application programming interface (API or web API) that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services.
+
+When an api have any error then it doesn't affect the work of api it only shows the message in which error is shown it doesn't crash (fatna ) the whole api .
